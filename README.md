@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/55735751/128643214-f27bb760-9c2e-44ea-
 
 # feed_me
 
-Feed-me food delivery app made using Flutter. Firebase backend. Checkout payment.
+Feed-me food delivery app made using Flutter. Firebase backend (Auth/FireStore). Checkout payment.
 
 
 ## Resources
