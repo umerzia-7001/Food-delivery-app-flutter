@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "255070217699",
+    "project_id": "feed-me-cf20b",
+    "storage_bucket": "feed-me-cf20b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255070217699:android:f3dc3d88f6364f6669ecd6",
+        "android_client_info": {
+          "package_name": "com.umer.feedMe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255070217699-9lf0qrnb4k3lgtoojs8i080kf48dhbsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpMkZ6-PV6EGyNxIqXGV0rxXf56Npcp-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255070217699-9lf0qrnb4k3lgtoojs8i080kf48dhbsl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "255070217699-lta2h3hc0p3hirkt8ks221ap1fo641bu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.umer.feedMe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
