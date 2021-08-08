@@ -1,16 +1,19 @@
+
+
+https://user-images.githubusercontent.com/55735751/128643214-f27bb760-9c2e-44ea-923a-d4176fd1a340.mp4
+
 # feed_me
 
-A new Flutter project.
+Feed-me food delivery app made using Flutter. Firebase backend. Checkout payment.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Resources
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to start learning Flutter:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1- Flutter official docs
+2- Udemy curses by Angela yu or Academind.
+3- open source community
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+mentions: 
+abuanwar072 
